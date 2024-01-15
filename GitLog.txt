@@ -1,0 +1,85 @@
+Git log
+
+commit 8ee74ab2693ae7272b8d99ae7522a545743ead93 (HEAD -> main, origin/main)
+
+commit 3d9363faa8ae232d72940ddaa2956db1ee60f7bd (HEAD -> main)
+Author: Melissa Githinji <melissagithinji@Melissas-MacBook-Pro.local>
+Date:   Sun Aug 13 11:46:28 2023 +0200
+
+    Readme
+
+commit 4c9ec0f88039d8e512d3c1533ebe124604feebd3
+Author: Melissa Githinji <melissagithinji@Melissas-MacBook-Pro.local>
+Date:   Sun Aug 13 11:32:37 2023 +0200
+
+    FINAL VERSION
+Author: Melissa Githinji 
+Date:   Fri Aug 11 22:08:16 2023 +0200
+
+    Adding report supplements to repository
+
+commit 80be745eed924f6bacd6f2b07352ad5e987106b8
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Fri Aug 11 21:48:41 2023 +0200
+
+    Final testing orchestration with return methods with a different make run for testing
+
+commit f4761a0f7439c4d73df5ff4751022044e747d359
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Wed Aug 9 17:46:23 2023 +0200
+
+    Deleting Search.java from locations
+
+commit 79e90f2d74cab5c035a384dc409f98f46c2a30f8
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Wed Aug 9 17:44:56 2023 +0200
+
+    Fixing Makefile and eliminating circular dependency
+
+commit b1aeae9e97399f2c034196ddc7f7ba188e48f0b5
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Wed Aug 9 17:18:03 2023 +0200
+
+    Exception handling, testing orchestration
+
+commit ee4f4ef99b2331030df80f7ce7157a9130148d2f
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Wed Aug 9 17:16:34 2023 +0200
+
+    Removing Run class from make file
+
+commit 2206da8899eebe44a78bad670e018c2ec0223ee5
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Wed Aug 9 16:55:08 2023 +0200
+
+    Fixing Heap Space Error
+
+commit e74371d4ea231cc2571b62698a5c04d805e7f9d1
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Tue Aug 8 10:55:46 2023 +0200
+
+    Fixing logic error in how I find min x and y
+
+commit d06a23acae5271f3ca3a807c3be3451e9f5bfad7
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Tue Aug 8 08:43:29 2023 +0200
+
+    Changing run parameters and trying to fix the heap space error
+
+commit 06de51bcf346dbe2a3ea3469027160e080a18d3f
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Tue Aug 8 08:18:14 2023 +0200
+
+    trying to fix heap space error
+
+commit 72aa28ee5dc6809d6150485f162141af940be0dc
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Sun Aug 6 18:54:52 2023 +0200
+
+    Makefile
+
+commit 80b97cb98743f2d77891c48c9c683a26cec0b98a
+Author: Melissa Githinji <gthmel001@myuct.ac.za>
+Date:   Sun Aug 6 18:37:05 2023 +0200
+
+    Initial files
